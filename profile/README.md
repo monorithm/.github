@@ -16,9 +16,9 @@ honest, useful exchange comes first.
 
 ## Who is Harnicode?
 
-Monorithm is designed, built, and operated by **Harnicode**, the company behind
-the platform. Harnicode owns Monorithm and the systems, design language, and
-tooling that power it.
+Monorithm is designed, built, and operated by **[Harnicode](https://harnicode.com)**,
+the company behind the platform. Harnicode owns Monorithm and the systems, design
+language, and tooling that power it.
 
 ## Explore
 
@@ -41,4 +41,5 @@ Harnicode. They are made publicly viewable for reference and transparency only;
 public visibility grants no license and transfers no right, title, or interest.
 No use is permitted without Harnicode's prior written consent.
 
-For licensing or other inquiries, contact Harnicode.
+For licensing or other inquiries, contact Harnicode at
+[hq@harnicode.com](mailto:hq@harnicode.com) · [harnicode.com](https://harnicode.com).
