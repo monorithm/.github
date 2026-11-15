@@ -52,6 +52,12 @@ On a tile, the mark is 11/16 of the tile height.
 - Do not change the colors, the proportions, or the corners. Do not add a shadow, an outline, or a gradient.
 - Do not put text in the mark.
 
+## Copyright
+
+Copyright 2026 Harnicode. Harnicode is the owner of the name Monorithm, the Monorithm icon, and the related branding.
+
+No open license applies to the files in this folder. The Apache License 2.0 of the Monorithm packages does not apply to them. To use these files, get the permission of [Harnicode](https://harnicode.com). Read `NOTICE`.
+
 ## The source
 
 On 15 November 2026, the user selected this icon after four rounds of concepts. The first source was the favicon of the language site (a hexagon ring in `#5ca3ff` on `#181818`). Then came a cube illusion in the centre, an asymmetric opening, and one rule of even widths (solid 2 : space 1). Then the top face of the cube opened. Last, the user made the favicon mark canonical: one shape for the two faces.
