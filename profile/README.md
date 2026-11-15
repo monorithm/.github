@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/monorithm/.github/main/brand/monorithm-app-icon-1024.png" width="96" height="96" alt="The Monorithm icon: an open hexagon ring with a cube in its core">
+
 # Monorithm
 
 **A real-time intent marketplace** — the marketplace structure of Jiji, refined
